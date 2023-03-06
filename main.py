@@ -21,4 +21,4 @@ while True:
     clock.tick(60)
     
     
-    # 51:48
+    # 2:26:27
